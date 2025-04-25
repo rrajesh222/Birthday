@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		8BFEE6C62DBBE193004EFAA0 /* SwiftData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftData.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8BFEE6C62DBBE193004EFAA0 /* Birthday.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Birthday.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		8BFEE6C82DBBE193004EFAA0 /* SwiftData */ = {
+		8BFEE6C82DBBE193004EFAA0 /* Birthday */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = SwiftData;
+			path = Birthday;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		8BFEE6BD2DBBE193004EFAA0 = {
 			isa = PBXGroup;
 			children = (
-				8BFEE6C82DBBE193004EFAA0 /* SwiftData */,
+				8BFEE6C82DBBE193004EFAA0 /* Birthday */,
 				8BFEE6C72DBBE193004EFAA0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		8BFEE6C72DBBE193004EFAA0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8BFEE6C62DBBE193004EFAA0 /* SwiftData.app */,
+				8BFEE6C62DBBE193004EFAA0 /* Birthday.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8BFEE6C52DBBE193004EFAA0 /* SwiftData */ = {
+		8BFEE6C52DBBE193004EFAA0 /* Birthday */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8BFEE6D42DBBE195004EFAA0 /* Build configuration list for PBXNativeTarget "SwiftData" */;
+			buildConfigurationList = 8BFEE6D42DBBE195004EFAA0 /* Build configuration list for PBXNativeTarget "Birthday" */;
 			buildPhases = (
 				8BFEE6C22DBBE193004EFAA0 /* Sources */,
 				8BFEE6C32DBBE193004EFAA0 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				8BFEE6C82DBBE193004EFAA0 /* SwiftData */,
+				8BFEE6C82DBBE193004EFAA0 /* Birthday */,
 			);
-			name = SwiftData;
+			name = Birthday;
 			packageProductDependencies = (
 			);
 			productName = SwiftData;
-			productReference = 8BFEE6C62DBBE193004EFAA0 /* SwiftData.app */;
+			productReference = 8BFEE6C62DBBE193004EFAA0 /* Birthday.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8BFEE6C12DBBE193004EFAA0 /* Build configuration list for PBXProject "SwiftData" */;
+			buildConfigurationList = 8BFEE6C12DBBE193004EFAA0 /* Build configuration list for PBXProject "Birthday" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8BFEE6C52DBBE193004EFAA0 /* SwiftData */,
+				8BFEE6C52DBBE193004EFAA0 /* Birthday */,
 			);
 		};
 /* End PBXProject section */
@@ -303,7 +303,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8BFEE6C12DBBE193004EFAA0 /* Build configuration list for PBXProject "SwiftData" */ = {
+		8BFEE6C12DBBE193004EFAA0 /* Build configuration list for PBXProject "Birthday" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8BFEE6D22DBBE195004EFAA0 /* Debug */,
@@ -312,7 +312,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8BFEE6D42DBBE195004EFAA0 /* Build configuration list for PBXNativeTarget "SwiftData" */ = {
+		8BFEE6D42DBBE195004EFAA0 /* Build configuration list for PBXNativeTarget "Birthday" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8BFEE6D52DBBE195004EFAA0 /* Debug */,
